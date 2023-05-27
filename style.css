@@ -1,0 +1,72 @@
+body {
+    position: relative;
+    background-color: rgb(247, 242, 242);
+    margin: 10px;
+}
+
+div {
+background-color: rgb(119, 35, 35);
+position: fixed;
+width:30%;
+height: 95%;
+
+
+}
+
+.imagemcurriculo {
+    margin: 40%;
+    width: 35%;
+    height: 25%;
+    border-radius:50% ;
+    border: 2px solid green;
+    top: 30%;
+}
+
+section {
+    position: fixed;
+    text-align: start;
+    left: 15%;
+    top: 60%;
+}
+
+ a {
+    color: antiquewhite;
+    text-decoration: none;
+}
+
+:hover {
+    color: rgb(14, 22, 20);
+}
+
+.section1{
+     top: 35%;
+     left: 31%;
+}
+
+.section2 {
+    top: 70%;
+    left: 35%;
+}
+
+.a2{
+    text-decoration: none;
+}
+
+/*Página conhecimentos*/
+
+.section3 {
+    font-size: 40px;
+    text-align: start;
+    top: 30%;
+    left: 35%;
+}
+
+.section4 {
+    font-size: 20px;
+    top: 35%;
+    left: 35%;
+}
+
+
+ 
+    
